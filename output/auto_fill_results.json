@@ -1,0 +1,19 @@
+{
+  "Given Name Text Box": "John",
+  "Family Name Text Box": "Dory",
+  "Address 1 Text Box": "Shark street",
+  "House nr Text Box": "20",
+  "Address 2 Text Box": "Whale lane",
+  "Postcode Text Box": "2304",
+  "City Text Box": "Atlantic city",
+  "Country Combo Box": "",
+  "Gender List Box": "",
+  "Height Formatted Field": "200",
+  "Driving License Check Box": true,
+  "Language 1 Check Box": false,
+  "Language 2 Check Box": false,
+  "Language 3 Check Box": false,
+  "Language 4 Check Box": true,
+  "Language 5 Check Box": true,
+  "Favourite Colour List Box": "Blue"
+}

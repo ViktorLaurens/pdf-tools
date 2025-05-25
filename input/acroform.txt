@@ -1,0 +1,18 @@
+first name: John
+last name: Dory
+Address 1: Shark street
+Address 2: Whale lane
+Address 3: dolphin pass
+House nr: 20
+Postal code: 2304
+City: Atlantic city
+Country: Atlantis
+Continent: ocean
+Gender: non-binary
+Height: 2 m
+Width: 30 cm
+Driving license: yes
+Scuba diving license: no
+Languages: Esperanto and latin, no french
+Favourite color: blue
+favourite dish: calamares
